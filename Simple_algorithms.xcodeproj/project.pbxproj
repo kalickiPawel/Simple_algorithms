@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3B764A2B257950E500DF7F71 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3B764A2A257950E500DF7F71 /* main.cpp */; };
+		3B764A2B257950E500DF7F71 /* silnia.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3B764A2A257950E500DF7F71 /* silnia.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		3B764A27257950E500DF7F71 /* Simple_algorithms */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Simple_algorithms; sourceTree = BUILT_PRODUCTS_DIR; };
-		3B764A2A257950E500DF7F71 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		3B764A2A257950E500DF7F71 /* silnia.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = silnia.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		3B764A29257950E500DF7F71 /* Simple_algorithms */ = {
 			isa = PBXGroup;
 			children = (
-				3B764A2A257950E500DF7F71 /* main.cpp */,
+				3B764A2A257950E500DF7F71 /* silnia.cpp */,
 			);
 			path = Simple_algorithms;
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3B764A2B257950E500DF7F71 /* main.cpp in Sources */,
+				3B764A2B257950E500DF7F71 /* silnia.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
